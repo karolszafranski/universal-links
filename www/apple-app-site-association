@@ -1,0 +1,22 @@
+{
+    "applinks": {
+        "details": [
+             {
+               "appIDs": [ "UW3887MHY3.com.eclipsesource.universallinks" ],
+               "components": [
+                  {
+                     "/": "/ios-link.html",
+                     "comment": "Matches URL to /ios-link.html"
+                  },
+                  {
+                     "/": "/ios-link.html*",
+                     "comment": "Matches URL to /ios-link.html including any suffixes."
+                  }
+               ]
+             }
+         ]
+     },
+     "webcredentials": {
+        "apps": [ "" ]
+     }
+  }
